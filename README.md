@@ -6,7 +6,7 @@
 <p align="center">
   <img width="100%" src="./profile/bing.jpg" alt="Bing daily wallpaper" />
 </p>
-<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-10-31 · 往昔帝国的幽影<br/>圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)</sub></p>
+<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-01 · 林间迷雾<br/>黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)</sub></p>
 <!-- BING:END -->
 
 
@@ -61,7 +61,7 @@
 </p>
 
 <!-- UPDATED:START -->
-<p align="center"><sub>🕒 更新于 Updated: 2026-10-31 08:23 (UTC+8)</sub></p>
+<p align="center"><sub>🕒 更新于 Updated: 2026-11-01 08:21 (UTC+8)</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center"><sub>慢慢来，比较快。 Slow is smooth, smooth is fast.</sub></p>
