@@ -6,7 +6,7 @@
 <p align="center">
   <img width="100%" src="./profile/bing.jpg" alt="Bing daily wallpaper" />
 </p>
-<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-04 · 泛舟如画秋林<br/>五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)</sub></p>
+<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-05 · 向山巅再迈一步<br/>石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)</sub></p>
 <!-- BING:END -->
 
 
@@ -61,7 +61,7 @@
 </p>
 
 <!-- UPDATED:START -->
-<p align="center"><sub>🕒 更新于 Updated: 2026-11-04 08:25 (UTC+8)</sub></p>
+<p align="center"><sub>🕒 更新于 Updated: 2026-11-05 08:31 (UTC+8)</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center"><sub>慢慢来，比较快。 Slow is smooth, smooth is fast.</sub></p>
