@@ -23,8 +23,8 @@ jobs:
         run: python scripts/update_profile.py
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Jiang Ym"
+                    git config user.email "meetjym@gmail.com"
           git add -A
           git diff --cached --quiet || git commit -m "chore: daily profile refresh"
           git push
