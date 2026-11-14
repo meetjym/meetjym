@@ -6,7 +6,7 @@
 <p align="center">
   <img width="100%" src="./profile/bing.jpg" alt="Bing daily wallpaper" />
 </p>
-<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-13 · 冰下秘境<br/>亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)</sub></p>
+<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-14 · 唯有向上发展<br/>中国香港维多利亚港 (© Juan Romero/Cavan Images)</sub></p>
 <!-- BING:END -->
 
 
@@ -61,7 +61,7 @@
 </p>
 
 <!-- UPDATED:START -->
-<p align="center"><sub>🕒 更新于 Updated: 2026-11-14 08:11 (UTC+8)</sub></p>
+<p align="center"><sub>🕒 更新于 Updated: 2026-11-14 08:26 (UTC+8)</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center"><sub>慢慢来，比较快。 Slow is smooth, smooth is fast.</sub></p>
