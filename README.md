@@ -6,7 +6,7 @@
 <p align="center">
   <img width="100%" src="./profile/bing.jpg" alt="Bing daily wallpaper" />
 </p>
-<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-16 · 历经岁月，屹立不倒<br/>美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)</sub></p>
+<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-17 · 走进广阔的大自然<br/>雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)</sub></p>
 <!-- BING:END -->
 
 
@@ -61,7 +61,7 @@
 </p>
 
 <!-- UPDATED:START -->
-<p align="center"><sub>🕒 更新于 Updated: 2026-11-16 08:40 (UTC+8)</sub></p>
+<p align="center"><sub>🕒 更新于 Updated: 2026-11-17 08:32 (UTC+8)</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center"><sub>慢慢来，比较快。 Slow is smooth, smooth is fast.</sub></p>
