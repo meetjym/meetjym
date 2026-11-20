@@ -6,7 +6,7 @@
 <p align="center">
   <img width="100%" src="./profile/bing.jpg" alt="Bing daily wallpaper" />
 </p>
-<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-19 · 思想在此成形<br/>雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)</sub></p>
+<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-20 · 在峡湾中大快朵颐<br/>正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)</sub></p>
 <!-- BING:END -->
 
 
@@ -61,7 +61,7 @@
 </p>
 
 <!-- UPDATED:START -->
-<p align="center"><sub>🕒 更新于 Updated: 2026-11-19 08:42 (UTC+8)</sub></p>
+<p align="center"><sub>🕒 更新于 Updated: 2026-11-20 08:32 (UTC+8)</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center"><sub>慢慢来，比较快。 Slow is smooth, smooth is fast.</sub></p>
