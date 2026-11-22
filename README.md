@@ -6,7 +6,7 @@
 <p align="center">
   <img width="100%" src="./profile/bing.jpg" alt="Bing daily wallpaper" />
 </p>
-<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-21 · 陶瓦屋顶下的梦<br/>法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)</sub></p>
+<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-22 · 海浪间的庇护所<br/>西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)</sub></p>
 <!-- BING:END -->
 
 
@@ -61,7 +61,7 @@
 </p>
 
 <!-- UPDATED:START -->
-<p align="center"><sub>🕒 更新于 Updated: 2026-11-22 08:25 (UTC+8)</sub></p>
+<p align="center"><sub>🕒 更新于 Updated: 2026-11-22 08:27 (UTC+8)</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center"><sub>慢慢来，比较快。 Slow is smooth, smooth is fast.</sub></p>
