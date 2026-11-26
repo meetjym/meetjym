@@ -6,7 +6,7 @@
 <p align="center">
   <img width="100%" src="./profile/bing.jpg" alt="Bing daily wallpaper" />
 </p>
-<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-25 · 美国西南部的一场雪<br/>日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)</sub></p>
+<p align="center"><sub>🖼️ 必应每日一图 Bing Daily · 2026-11-26 · 彩虹落下的地方<br/>怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)</sub></p>
 <!-- BING:END -->
 
 
@@ -61,7 +61,7 @@
 </p>
 
 <!-- UPDATED:START -->
-<p align="center"><sub>🕒 更新于 Updated: 2026-11-26 04:29 (UTC+8)</sub></p>
+<p align="center"><sub>🕒 更新于 Updated: 2026-11-26 08:39 (UTC+8)</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center"><sub>慢慢来，比较快。 Slow is smooth, smooth is fast.</sub></p>
